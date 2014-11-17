@@ -8,4 +8,5 @@ insecure
 bootstrap
 accounts-ui-bootstrap-dropdown
 accounts-password
+iron:router
 
